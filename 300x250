@@ -1,0 +1,8 @@
+	atOptions = {
+		'key' : 'bae4860b704a40f2c44a87eed5cf3ae0',
+		'format' : 'iframe',
+		'height' : 250,
+		'width' : 300,
+		'params' : {}
+	};
+	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://capricedes.com/bae4860b704a40f2c44a87eed5cf3ae0/invoke.js"></scr' + 'ipt>');
